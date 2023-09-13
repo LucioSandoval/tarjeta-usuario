@@ -1,0 +1,49 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin-top: 10%;
+    margin-left: 33%;
+    height: 350px;
+    width: 450px;
+}
+.header{
+    background-color: rgb(92, 160, 160);
+    height: 60px;
+    position: relative;
+
+}
+.perfil{
+    width: 60px;
+    top:28px;
+    left: 20px;
+    border: solid 3px rgb(221, 208, 208);
+    border-radius: 50%;
+    position: absolute;
+}
+
+.body{
+    
+    padding: 15px; 
+    border-style: solid;
+    border-color: rgb(221, 208, 208);
+    border-top: 2px;
+}
+h2{
+    
+    margin-bottom: 10px;
+}
+.contenedor1{
+    margin-bottom: 10px;
+    
+}
+.contenedor2{
+    margin-top: 10px;
+    
+}
+.logo{
+    width: 10px;
+}
+a{
+    color: rgb(68, 97, 192);
+}
